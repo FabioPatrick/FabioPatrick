@@ -1,1 +1,3 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3D1FF7&width=435&lines=%EF%BC%9E%EF%BC%9E%EF%BC%9E%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%82%8F%EF%BC%81%EF%BC%81%EF%BC%81;%EF%BC%9E%EF%BC%9E%EF%BC%9EOLAAA%EF%BC%81%EF%BC%81%EF%BC%81)](https://git.io/typing-svg)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioPatrick&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
